@@ -1,6 +1,6 @@
 # ConvocatoriaOrdinaria_LuisMiguelUrbez_TecProgramacion
 
-Repositorio:
+Repositorio: https://github.com/LuisMi01/ConvocatoriaOrdinaria_LuisMiguelUrbez_TecProgramacion
 
 Ejercicio a realizar:
 "Glamour Beauty"
